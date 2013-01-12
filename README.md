@@ -13,8 +13,8 @@ Sublime Text 2 package for easily setting a new file's syntax mode.
 
 1. Go to Preferences -> Package Settings -> Shimmy New File Syntax -> Settings - User
 2. Add the following:
-	* `{ "new_file_syntax": "HTML" }`
-3. Change the value of new_file_syntax to whatever language you have available.
+	* `{ "shimmy_new_file_syntax": "HTML" }`
+3. Change the value of shimmy_new_file_syntax to whatever language you have available.
 	* Some options could be:
 		* Javascript
 		* Java
@@ -25,6 +25,6 @@ Sublime Text 2 package for easily setting a new file's syntax mode.
 
 ##Additional Notes
 
-If you want Sublime Text 2's default empty new file, set new_file_syntax to "":
+If you want Sublime Text 2's default empty new file, set shimmy_new_file_syntax to "":
 
-```{ "new_file_syntax": "" }```
+```{ "shimmy_new_file_syntax": "" }```
