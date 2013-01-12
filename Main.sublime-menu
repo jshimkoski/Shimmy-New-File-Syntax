@@ -12,17 +12,17 @@
 				"children":
 				[
 					{
-						"caption": "New File Syntax",
+						"caption": "Shimmy New File Syntax",
 						"children":
 						[
 							{
 								"command": "open_file",
-								"args": {"file": "${packages}/NewFileSyntax/NewFileSyntax.sublime-settings"},
+								"args": {"file": "${packages}/ShimmyNewFileSyntax/ShimmyNewFileSyntax.sublime-settings"},
 								"caption": "Settings – Default"
 							},
 							{
 								"command": "open_file",
-								"args": {"file": "${packages}/User/NewFileSyntax.sublime-settings"},
+								"args": {"file": "${packages}/User/ShimmyNewFileSyntax.sublime-settings"},
 								"caption": "Settings – User"
 							}
 						]
