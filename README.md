@@ -7,7 +7,7 @@ Sublime Text 2 package for easily setting a new file's syntax mode.
 
 1. Clone project into your Sublime Text 2 packages directory.
 2. Open Sublime Text 2.
-3. Your default new file syntax is now 'HTML'.
+3. Your default new file syntax is now HTML.
 
 ##How to change settings
 
