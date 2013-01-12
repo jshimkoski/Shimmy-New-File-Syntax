@@ -17,7 +17,7 @@
 						[
 							{
 								"command": "open_file",
-								"args": {"file": "${packages}/ShimmyNewFileSyntax/ShimmyNewFileSyntax.sublime-settings"},
+								"args": {"file": "${packages}/Shimmy-New-File-Syntax/ShimmyNewFileSyntax.sublime-settings"},
 								"caption": "Settings – Default"
 							},
 							{
